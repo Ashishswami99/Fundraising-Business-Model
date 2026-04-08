@@ -94,7 +94,7 @@ The analysis is based on a comprehensive dataset of 431 global fundraising campa
 
 ---
 
-### Strategic Recommendations
+## Strategic Recommendations
 
 1. Immediate Actions (0-3 months)
 
